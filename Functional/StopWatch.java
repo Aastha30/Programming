@@ -5,16 +5,16 @@ public class StopWatch {
 	 void start()
 	{
 		 this.start=System.currentTimeMillis();
-		System.out.println("Start Time: "+start);
+		System.out.println("Start Time: "+start+" Millisec");
 	}
 	 void stop()
 	{
 		 this.stop=System.currentTimeMillis();
-		System.out.println("Stop Time: "+stop);
+		System.out.println("Stop Time: "+stop+" Millisec");
 	}
-	 long elapsedTime()
+	 double elapsedTime()
 	{
-		long et=stop-start;
+		double et=(stop-start)/1000.0;
 		return et;
 	}
 	
@@ -28,7 +28,7 @@ public class StopWatch {
 		System.out.println("Enter 0 to start");
 		int e=sc.nextInt();
 		sw.stop();
-		System.out.println("Elapsed Time: "+sw.elapsedTime());
+		System.out.println("Elapsed Time: "+sw.elapsedTime()+" sec");
 		
 		
 
