@@ -1,0 +1,59 @@
+[
+
+	{
+		"inventory": "rice",
+		"listofinventories": [
+			{
+				"name": "Basmati",
+				"weight": 10.0,
+				"price": 80.0
+			},
+			{
+				"name": "Arva",
+				"weight": 15.0,
+				"price": 40.0
+			},
+			{
+				"name": "Usna",
+				"weight": 5.0,
+				"price": 25.0
+			}
+		]
+	},
+	{
+		"inventory": "pulses",
+		"listofinventories": [
+			{
+				"name": "MoongDal",
+				"weight": 5.0,
+				"price": 80.0
+			},
+			{
+				"name": "UradDal",
+				"weight": 10.0,
+				"price": 85.0
+			},
+			{
+				"name": "MasoorDal",
+				"weight": 20.0,
+				"price": 55.0
+			}
+		]
+	},
+	{
+		"inventory": "wheat",
+		"listofinventories": [
+			{
+				"name": "Aashirward",
+				"weight": 20.0,
+				"price": 35.0
+			},
+			{
+				"name": "Ata",
+				"weight": 10.0,
+				"price": 25.0
+			}
+		]
+	}
+]
+
