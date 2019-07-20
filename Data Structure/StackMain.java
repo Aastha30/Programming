@@ -25,6 +25,7 @@ public class StackMain {
 		 
 		System.out.println("Element on the top of the stack: "+stack.peek());
 		System.out.println("Element on the top of the stack: "+stack1.peek());
+                System.out.println("astha");
 		
 	}
 
