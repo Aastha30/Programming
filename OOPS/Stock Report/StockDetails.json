@@ -1,0 +1,11 @@
+[
+	{
+		"StockName": "Amazon",
+		"NumOfShares": 30,
+		"PricePerShare": 25100.00
+	},
+	{
+		"StockName": "Reliance","NumOfShares":25,
+		"PricePerShare": 30900.00
+	}
+]
