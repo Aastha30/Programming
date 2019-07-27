@@ -1,0 +1,17 @@
+[
+  {
+    "stockName": "Google",
+    "numOfShares": 50,
+    "sharePrice": 56340.5
+  },
+  {
+    "stockName": "Microsoft",
+    "numOfShares": 50,
+    "sharePrice": 4512.67
+  },
+  {
+    "stockName": "Apple",
+    "numOfShares": 25,
+    "sharePrice": 8999.0
+  }
+]
