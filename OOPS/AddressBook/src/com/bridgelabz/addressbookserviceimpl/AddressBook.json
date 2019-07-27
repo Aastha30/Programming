@@ -1,0 +1,35 @@
+[
+  {
+    "firstName": "Aastha",
+    "lastName": "Shree",
+    "phnNo": 9800947356,
+    "houseNo": 44,
+    "pincode": 560076,
+    "streetName": "Bannerghatta Road,N S Palya",
+    "area": "BTM",
+    "city": "Bangalore",
+    "state": "Karnataka"
+  },
+  {
+    "firstName": "Punam",
+    "lastName": "Shrivastava",
+    "phnNo": 7631984742,
+    "houseNo": 54,
+    "pincode": 800020,
+    "streetName": "LIC Colony",
+    "area": "Kankarbagh",
+    "city": "Patna",
+    "state": "Bihar"
+  },
+  {
+    "firstName": "Tapas",
+    "lastName": "Patra",
+    "phnNo": 789451280,
+    "houseNo": 2,
+    "pincode": 831005,
+    "streetName": "FarmArea",
+    "area": "Kadma",
+    "city": "Jamshedpur",
+    "state": "Jharlhand"
+  }
+]
